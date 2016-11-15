@@ -1,0 +1,11 @@
+.insights-live {
+	color: red;
+	font-size: 1.4em;
+	margin: 12px auto -10px auto;
+	background: #777;
+	color: #252525;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	width: 812px;
+	margin-bottom: 20px;
+}
